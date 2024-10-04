@@ -6,8 +6,7 @@
   "packageRules": [
     {
       "matchPackageNames": "express",
-      "ignoreUnstable": false,
-      "versioning": "semver"
+      "ignoreUnstable": false
     }
   ]  
 }
