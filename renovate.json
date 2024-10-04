@@ -5,7 +5,7 @@
   ],
   "packageRules": [
     {
-      "matchPackageNames": "express",
+      "matchPackageNames": "@progress/kendo-angular-schematics",
       "ignoreUnstable": false
     }
   ]  
