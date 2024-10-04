@@ -6,7 +6,8 @@
   "packageRules": [
     {
       "matchPackageNames": "@progress/kendo-angular-schematics",
-      "ignoreUnstable": false
+      "ignoreUnstable": false,
+      "respectLatest": false
     }
   ]  
 }
