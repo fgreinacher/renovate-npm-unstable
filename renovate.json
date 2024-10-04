@@ -3,5 +3,10 @@
   "extends": [
     "config:recommended"
   ],
-  "ignoreUnstable": false
+  "packageRules": [
+    {
+      "matchPackageNames": "express",
+      "ignoreUnstable": false
+    }
+  ]  
 }
