@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@progress/kendo-angular-schematics": "^16.10.0"
+    "@progress/kendo-angular-schematics": "^16.11.0-develop"
   }
 }
